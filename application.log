@@ -1,0 +1,47 @@
+2024-02-06 12:10:52,477  INFO [main] Sauce-Demo:40 - Browser is Opened
+2024-02-06 12:10:53,283  INFO [main] Sauce-Demo:43 - URL is Opened
+2024-02-06 12:10:53,640  INFO [main] Sauce-Demo:50 - Username is Entered
+2024-02-06 12:10:53,731  INFO [main] Sauce-Demo:52 - Password is Entered
+2024-02-06 12:10:54,033  INFO [main] Sauce-Demo:56 - Clicked On Login Button
+2024-02-06 12:10:54,331  INFO [main] Sauce-Demo:18 - Applying Verification
+2024-02-06 12:11:04,682  INFO [main] Sauce-Demo:62 - End Of program
+2024-02-06 12:11:05,882  INFO [main] Sauce-Demo:40 - Browser is Opened
+2024-02-06 12:11:06,770  INFO [main] Sauce-Demo:43 - URL is Opened
+2024-02-06 12:11:07,138  INFO [main] Sauce-Demo:50 - Username is Entered
+2024-02-06 12:11:07,221  INFO [main] Sauce-Demo:52 - Password is Entered
+2024-02-06 12:11:07,505  INFO [main] Sauce-Demo:56 - Clicked On Login Button
+2024-02-06 12:11:07,510  INFO [main] Sauce-Demo:15 - Went To Home Page
+2024-02-06 12:11:07,817  INFO [main] Sauce-Demo:17 - Applying Verification
+2024-02-06 12:11:08,029  INFO [main] Sauce-Demo:62 - End Of program
+2024-02-06 12:11:09,205  INFO [main] Sauce-Demo:40 - Browser is Opened
+2024-02-06 12:11:10,023  INFO [main] Sauce-Demo:43 - URL is Opened
+2024-02-06 12:11:10,321  INFO [main] Sauce-Demo:50 - Username is Entered
+2024-02-06 12:11:10,412  INFO [main] Sauce-Demo:52 - Password is Entered
+2024-02-06 12:11:10,727  INFO [main] Sauce-Demo:56 - Clicked On Login Button
+2024-02-06 12:11:10,733  INFO [main] Sauce-Demo:16 - Went To Homepage
+2024-02-06 12:11:11,558  INFO [main] Sauce-Demo:62 - End Of program
+2024-02-06 12:11:12,719  INFO [main] Sauce-Demo:40 - Browser is Opened
+2024-02-06 12:11:13,528  INFO [main] Sauce-Demo:43 - URL is Opened
+2024-02-06 12:11:13,819  INFO [main] Sauce-Demo:50 - Username is Entered
+2024-02-06 12:11:13,897  INFO [main] Sauce-Demo:52 - Password is Entered
+2024-02-06 12:11:14,175  INFO [main] Sauce-Demo:56 - Clicked On Login Button
+2024-02-06 12:11:14,176  INFO [main] Sauce-Demo:17 - Went To Home Page
+2024-02-06 12:11:14,675  INFO [main] Sauce-Demo:19 - Applying Verification
+2024-02-06 12:11:14,865  INFO [main] Sauce-Demo:62 - End Of program
+2024-02-06 12:11:16,041  INFO [main] Sauce-Demo:40 - Browser is Opened
+2024-02-06 12:11:16,807  INFO [main] Sauce-Demo:43 - URL is Opened
+2024-02-06 12:11:17,135  INFO [main] Sauce-Demo:50 - Username is Entered
+2024-02-06 12:11:17,215  INFO [main] Sauce-Demo:52 - Password is Entered
+2024-02-06 12:11:17,507  INFO [main] Sauce-Demo:56 - Clicked On Login Button
+2024-02-06 12:11:17,509  INFO [main] Sauce-Demo:14 - Went To HomePage
+2024-02-06 12:11:18,074  INFO [main] Sauce-Demo:19 - clicked on DropDown
+2024-02-06 12:11:18,331  INFO [main] Sauce-Demo:21 - Hi to Low Option Selected
+2024-02-06 12:11:18,509  INFO [main] Sauce-Demo:62 - End Of program
+2024-02-06 12:11:19,534  INFO [main] Sauce-Demo:40 - Browser is Opened
+2024-02-06 12:11:20,328  INFO [main] Sauce-Demo:43 - URL is Opened
+2024-02-06 12:11:20,624  INFO [main] Sauce-Demo:50 - Username is Entered
+2024-02-06 12:11:20,716  INFO [main] Sauce-Demo:52 - Password is Entered
+2024-02-06 12:11:21,022  INFO [main] Sauce-Demo:56 - Clicked On Login Button
+2024-02-06 12:11:21,024  INFO [main] Sauce-Demo:15 - Went To Homepage
+2024-02-06 12:11:21,776  INFO [main] Sauce-Demo:21 - clicked On All Products
+2024-02-06 12:11:22,182  INFO [main] Sauce-Demo:62 - End Of program
